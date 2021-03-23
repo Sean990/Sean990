@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true?count_private=true&hide=contribs)](https://github.com/Sean990)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&layout=compact)](https://github.com/Sean990)
