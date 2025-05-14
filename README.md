@@ -1,22 +1,18 @@
 ### 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true?count_private=true&hide=contribs)](https://github.com/Sean990)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&layout=compact)](https://github.com/Sean990)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&theme=dark&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true" />
 </picture>
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
