@@ -1,10 +1,7 @@
 ### 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true?count_private=true&hide=contribs)](https://github.com/Sean990)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&layout=compact)](https://github.com/Sean990)
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&theme=dark&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&theme=dark&count_private=tru&hide=contribse"
     media="(prefers-color-scheme: dark)"
   />
   <source
