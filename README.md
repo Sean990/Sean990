@@ -1,26 +1,26 @@
 ### 👋
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&count_private=true&hide=contribse&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&count_private=true&hide=contribse&line_height=10&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&count_private=true&hide=contribse"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&count_private=true&hide=contribse&line_height=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&show_icons=true&count_private=tru&hide=contribse" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sean990&show_icons=true&count_private=true&hide=contribse&line_height=10" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&show_icons=true&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean990&show_icons=true&layout=compact" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/../output/github-snake-dark.svg" />
